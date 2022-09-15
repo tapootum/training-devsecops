@@ -33,4 +33,3 @@ spec:
     crds: Create
   upgrade:
     crds: CreateReplace
-  type: ClusterIP
