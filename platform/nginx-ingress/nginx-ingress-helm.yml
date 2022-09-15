@@ -33,8 +33,4 @@ spec:
     crds: Create
   upgrade:
     crds: CreateReplace
-  values:
-    installCRDs: true
-    service:
-      type: ClusterIP
-  
+  type: ClusterIP
